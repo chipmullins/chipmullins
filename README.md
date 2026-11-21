@@ -1,6 +1,6 @@
 # Hi, I'm Chip 👋
 
-I have a Master of Software Engineering from Maryville University and spent several years in higher education, working my way up from financial aid processor to Director of Financial Aid. Today, I work at a SAAS company and build apps on the side.
+I have a Master of Software Engineering from Maryville University and spent several years in higher education, working my way up from financial aid processor to Director of Financial Aid. Today, I work at a SaaS company and build apps on the side.
 
 Most of what I build starts with a simple thought: *"I wish this existed."*
 
