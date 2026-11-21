@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Chip 👋
 
-<!--
-**chipmullins/chipmullins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a Master of Software Engineering from Maryville University and spent several years in higher education, working my way up from financial aid processor to Director of Financial Aid. Today, I work at a SAAS company and build apps on the side.
 
-Here are some ideas to get you started:
+Most of what I build starts with a simple thought: *"I wish this existed."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Glofly](https://github.com/chipmullins/glofly)**: a messenger app available on iOS, Android, desktop, and web
+- **[Tablewhere](https://github.com/chipmullins/tablewhere)**: helps groups finally decide where to eat
+- **[Gloslate](https://github.com/chipmullins/gloslate)**: tackles the "who owes who" problem for roommates and group trips
+- **[Aviate](https://github.com/chipmullins/aviate2)**: a social network for airline employees, originally built in PHP and now rebuilt with Angular and Laravel ([live demo](https://aviate.glofly.app))
+
+I love taking an idea from concept to a working product, solving everyday problems, and sweating the details that make software useful. My goal is to make software development my full-time career, on a team that cares about building great products.
+
+📍 Lexington, Kentucky. 
